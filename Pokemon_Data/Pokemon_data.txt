@@ -1,0 +1,2 @@
+Pikachu##Electrico##180##40##5##//Electric//0pikachu
+Raichu##Electrico##230##55##10##//Electric//1raichu
